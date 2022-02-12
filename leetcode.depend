@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1644705993 source:/home/sven/code/leetcode/word-ladder.cpp
+	<string>
+	<vector>
+	<stack>
+	<iostream>
+
